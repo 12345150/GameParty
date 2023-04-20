@@ -48,7 +48,13 @@ The GameParty project is designed for casual gamers of **all ages** who enjoy pl
 ### 3.2 Members (Roles & Responsibilities & Portion)
 ### 3.3 Algorithm
 ### 3.4 Current status of our software
+- All three mini-games have been developed and integrated into the final Breakout Game
+- Game mechanics, graphical assets, menus, and user interface have been implemented and extensively tested
+- The game progression and victory conditions have been implemented, and any identified bugs have been fixed
 ### 3.5 Future plan
+- We plan to release the Breakout Game to the target market within the next two months, followed by regular updates and improvements based on user feedback.
+- We also plan to explore possibilities for expanding the game to other platforms and adding new mini-games to keep the game fresh and engaging for our users.
 
 ## 4.Additional information
+
 ### 4.1 Demo on Youtube
