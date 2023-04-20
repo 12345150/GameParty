@@ -16,35 +16,39 @@ The GameParty project is designed for casual gamers of **all ages** who enjoy pl
 ## 3.Software development plan
 ### 3.1 Developmet process and schedule
 - **Sprint 1 (Week 1-2):**  
-Develop the *rock-paper-scissors mini-game*  
-Implement basic game mechanics, such as player input and game logic  
-Design and integrate graphical assets  
-Conduct initial testing and bug fixing
+&#10003;    Develop the *rock-paper-scissors mini-game*  
+&#10003;    Implement basic game mechanics, such as player input and game logic  
+&#10003;    Design and integrate graphical assets  
+&#10003;    Conduct initial testing and bug fixing
 
 - **Sprint 2 (Week 3-4):**  
-Develop the *tic-tac-toe mini-game*  
-Implement game mechanics, including player input and game logic  
-Design and integrate graphical assets  
-Conduct testing and bug fixing
+&#10003;    Develop the *tic-tac-toe mini-game*  
+&#10003;    Implement game mechanics, including player input and game logic  
+&#10003;    Design and integrate graphical assets  
+&#10003;    Conduct testing and bug fixing
 
 - **Sprint 3 (Week 5-6):**  
-Develop the *bricks mini-game*  
-Implement game mechanics, such as player input, game logic, and physics  
-Design and integrate graphical assets  
-Conduct testing and bug fixing
+&#10003;    Develop the *bricks mini-game*  
+&#10003;    Implement game mechanics, such as player input, game logic, and physics  
+&#10003;    Design and integrate graphical assets  
+&#10003;    Conduct testing and bug fixing
 
 - **Sprint 4 (Week 7-8):**  
- Integration of all mini-games into the final Breakout Game  
- Implement game progression and victory conditions  
- Design and integrate game menus and user interface  
- Conduct extensive testing and bug fixing
+&#10003;     Integration of all mini-games into the final Breakout Game  
+&#10003;     Implement game progression and victory conditions  
+&#10003;     Design and integrate game menus and user interface  
+&#10003;     Conduct extensive testing and bug fixing
  
  - **Sprint 5 (Week 9-10):**  
-  Final polishing and optimization  
-  Documentation and README.md file preparation  
-  Conduct final testing and bug fixing
+&#10003;    Final polishing and optimization  
+&#10003;    Documentation and README.md file preparation  
+&#10003;    Conduct final testing and bug fixing
 
 
 ### 3.2 Members (Roles & Responsibilities & Portion)
 ### 3.3 Algorithm
-### 3.4
+### 3.4 Current status of our software
+### 3.5 Future plan
+
+## 4.Additional information
+### 4.1 Demo on Youtube
