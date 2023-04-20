@@ -43,3 +43,8 @@ Conduct testing and bug fixing
   Final polishing and optimization  
   Documentation and README.md file preparation  
   Conduct final testing and bug fixing
+
+
+### 3.2 Members (Roles & Responsibilities & Portion)
+### 3.3 Algorithm
+### 3.4
