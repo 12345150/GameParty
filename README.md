@@ -75,6 +75,13 @@ The GameParty project is designed for casual gamers of **all ages** who enjoy pl
 
 ### 3.2 Members (Roles & Responsibilities & Portion)
 ### 3.3 Algorithm
+- Recursion  
+  The process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself
+- Iteration  
+  The repetition of a process in order to generate a (possibly unbounded) sequence of outcomes.
+- Bit operation  
+  The operation on a bit string, a bit array or a binary numeral (considered as a bit string) at the level of its individual bits. 
+  
 ### 3.4 Current status of our software
 - All three mini-games have been developed and integrated into the final Breakout Game
 - Game mechanics, graphical assets, menus, and user interface have been implemented and extensively tested
