@@ -74,6 +74,9 @@ The GameParty project is designed for casual gamers of **all ages** who enjoy pl
 
 
 ### 3.2 Members (Roles & Responsibilities & Portion)
+Name|Roles|Responsibilities|Portion
+-|-|-|
+LO PUI(Eva) | Responsible for the programming part of the first game(Rock-Paper-Scissors)
 ### 3.3 Algorithm
 - Recursion  
   The process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself
