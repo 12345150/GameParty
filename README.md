@@ -1,10 +1,12 @@
 # GameParty
 ## 1.Graphical Abstract
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/73181602/233325273-a001cb57-bb70-4cd3-96cd-362355ad061f.png">
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/73181602/233628306-5325093b-4e8d-4800-b76e-0a7b65801116.jpg">
+
 
 ## 2.Purpose of the software
  
-The purpose of  GameParty project is to develop a collection of three mini-games, namely **rock-paper-scissors**, **tic-tac-toe**, and **bricks**, which can be played individually or sequentially. The final victory is achieved by winning all three games.
+The purpose of  GameParty project is to develop a collection of three mini-games, namely **rock-paper-scissors**, **tic-tac-toe**, and **break the bricks**, which can be played individually or sequentially. The final victory is achieved by winning all three games.
 ### 2.1 Agile software development process
 - It allows for iterative and incremental development, frequent feedback from stakeholders, and flexibility to adapt to changing requirements.
 - Enable us to continuously improve and refine the software based on feedback and deliver a high-quality product to our users.
