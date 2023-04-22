@@ -2,8 +2,9 @@
 ## 1.Graphical Abstract
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/73181602/233325273-a001cb57-bb70-4cd3-96cd-362355ad061f.png">
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/73181602/233628306-5325093b-4e8d-4800-b76e-0a7b65801116.jpg">
-
-
+    
+      
+      
 ## 2.Purpose of the software
  
 The purpose of  GameParty project is to develop a collection of three mini-games, namely **rock-paper-scissors**, **tic-tac-toe**, and **break the bricks**, which can be played individually or sequentially. The final victory is achieved by winning all three games.
@@ -32,6 +33,7 @@ The purpose of  GameParty project is to develop a collection of three mini-games
   </tr>
 </thead>
 </table>
+
 
 ### 2.1 Agile software development process
 - It allows for iterative and incremental development, frequent feedback from stakeholders, and flexibility to adapt to changing requirements.
@@ -70,7 +72,7 @@ The GameParty project is designed for casual gamers of **all ages** who enjoy pl
  - **Sprint 5 (Week 9-10):**  
 &#10003;    Final polishing and optimization  
 &#10003;    Documentation and README.md file preparation  
-&#10003;    Conduct final testing and bug fixing
+&#10003;    Conduct final testing and bug fixing  
 
 
 ### 3.2 Members (Roles & Responsibilities & Portion)
@@ -81,6 +83,8 @@ Grace(WANG YINGQI) |Responsible for the programming part of the second game(Tic-
 Zora(Niu JunQi) |Responsible for the programming part of the third game(Break The Brick）|20%
 Lucy(NG I CHENG) |Responsible for games collection together to one game |20%
 Lucy(LIAO XIANGLU) |Resonsible for the intergration of documents and upload of project(on GitHub&Youtube) |20%
+
+
 ### 3.3 Algorithm
 - Recursion  
   The process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself
@@ -88,6 +92,7 @@ Lucy(LIAO XIANGLU) |Resonsible for the intergration of documents and upload of p
   The repetition of a process in order to generate a (possibly unbounded) sequence of outcomes.
 - Bit operation  
   The operation on a bit string, a bit array or a binary numeral (considered as a bit string) at the level of its individual bits. 
+  
   
 ### 3.4 Current status of our software
 - All three mini-games have been developed and integrated into the final Breakout Game
@@ -97,6 +102,8 @@ Lucy(LIAO XIANGLU) |Resonsible for the intergration of documents and upload of p
 - We plan to release the Breakout Game to the target market within the next two months, followed by regular updates and improvements based on user feedback.
 - We also plan to explore possibilities for expanding the game to other platforms and adding new mini-games to keep the game fresh and engaging for our users.
 
+  
+  
 ## 4.Additional information
 
 ### 4.1 Demo on Youtube(URL: https://youtu.be/bJUT-RPPQBY)
