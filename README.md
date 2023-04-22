@@ -74,9 +74,13 @@ The GameParty project is designed for casual gamers of **all ages** who enjoy pl
 
 
 ### 3.2 Members (Roles & Responsibilities & Portion)
-Name|Roles|Responsibilities|Portion
--|-|-|
-LO PUI(Eva) | Responsible for the programming part of the first game(Rock-Paper-Scissors)
+Name|Responsibilities|Portion
+-|-|-
+Eva(LO PUI) | Responsible for the programming part of the first game(Rock-Paper-Scissors)|20%
+Grace(WANG YINGQI) |Responsible for the programming part of the second game(Tic-Tac-Toe) |20%
+Zora(Niu JunQi) |Responsible for the programming part of the third game(Break The Brick）|20%
+Lucy(NG I CHENG) |Responsible for games collection together to one game |20%
+Lucy(LIAO XIANGLU) |Resonsible for the intergration of documents and upload of project(on GitHub&Youtube) |20%
 ### 3.3 Algorithm
 - Recursion  
   The process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself
